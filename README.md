@@ -1,5 +1,7 @@
 •	👋 Hi, I’m Vyshnavi Ch, an Electronics and Communication Engineering graduate from 2022 with a passion for VLSI design.
+
 •	I've gained valuable experience during my time at Harman India and at Maven Silicon where I delved into the intricacies of electronics and communication systems.
+
 •	👀 I’m particularly interested in RTL Design and Verification, with a focus on Computer Architecture, Microarchitecture and Domain-Specific Architecture.
 
 Previous Work/Projects:
